@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SupMTI_ExamApp</string>
+    <string name="inscription">Inscription</string>
+    <string name="authentification">Authentification</string>
+    <string name="Intitulé">Cette application permet la gestion des utilisateurs avec les opérations CRUD simple (créer, lire, mettre à jour, supprimer) à l\'aide de FireBase</string>
+    <string name="Name">Nom et Prénoms</string>
+    <string name="votre_e_mail">Votre E-mail</string>
+    <string name="Age">Votre âge</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="votre_num_ro_de_t_l_phone">Votre numéro de téléphone</string>
+    <string name="modifier">Modifier</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="valider">Valider</string>
+    <string name="mise_jour_des_informations">Mise à jour des informations</string>
+    <string name="votre_mot_de_passe">Votre mot de passe</string>
+</resources>
