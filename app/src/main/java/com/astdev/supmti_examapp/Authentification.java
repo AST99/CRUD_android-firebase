@@ -40,7 +40,7 @@ public class Authentification extends AppCompatActivity {
 
                 if (task.isSuccessful()){
                     startActivity(new Intent(getApplicationContext(), ShowAllUser.class));
-                    Toast.makeText(Authentification.this,"ok", Toast.LENGTH_LONG).show();
+                    Toast.makeText(Authentification.this,"Connexion réussie", Toast.LENGTH_LONG).show();
                 }
                 else {
 
