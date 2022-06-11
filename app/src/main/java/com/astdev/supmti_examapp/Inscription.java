@@ -27,8 +27,7 @@ public class Inscription extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
-        this.editTxtName
-                = findViewById(R.id.editTxtName);
+        this.editTxtName = findViewById(R.id.editTxtName);
         this.editTxtEmail = findViewById(R.id.editTxtEmail);
         this.editTxtPhone = findViewById(R.id.editTxtPhone);
         this.editTxtPasswrd = findViewById(R.id.editTxtPassword);
